@@ -1,16 +1,13 @@
-## Hi there 👋
+# Adam Munn
 
-<!--
-**Munn-A-Eng/Munn-A-Eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical & Manufacturing Engineer | BEng, EngTech (MIMechE)  
+Sheffield, United Kingdom
 
-Here are some ideas to get you started:
+## Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**munn-a-eng.github.io**](https://munn-a-eng.github.io/) — CAD, digital twin modelling, robotics, MATLAB, and a BEng dissertation on ISO 9001 implementation across UK engineering organisations.
+
+## Contact
+
+- LinkedIn: [Adam Munn](https://www.linkedin.com/in/adammunnuos/)
+- Email: Adammunn71@gmail.com
